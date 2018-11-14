@@ -1,1 +1,2 @@
-# MVA_Convex-Optimization
+# MVA Course : Convex Optimization
+# Alexandre D'Aspremont
